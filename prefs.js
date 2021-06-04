@@ -22,33 +22,25 @@ var prefs = {
         // "url":"http://example.com" URL to check. Redirects will show as abnormal NOTE: If using slack, protocols are a requirement
         // },
         {
-            "name": "Developster Live",
-            "url": "http://www.developster.io"
+            "name": "VIP",
+            "url": "vip.chadserver.tk"
         },
         {
-            "name": "Developster Beta",
-            "url": "http://beta.developster.io"
+            "name": "VIPV2",
+            "url": "VIPV2.chadserver.tk"
         },
         {
-            "name": "Developster Alpha",
-            "url": "http://alpha.developster.io",
+            "name": "VVUSA1",
+            "url": "us1.chad-vpn.ml",
             "alert":false
         },
         {
-            "name": "Innovate For ChCh",
-            "url": "http://innovateforchch.nz"
+            "name": "USA5",
+            "url": "us5.chad-cloud.tk"
         },
         {
-            "name": "Muute",
-            "url": "http://muute.net"
-        },
-        {
-            "name": "Kohknowco",
-            "url": "http://www.kohknowco.org"
-        },
-        {
-            "name": "UPT Digital",
-            "url": "http://uptdigital.com"
+            "name": "USA1",
+            "url": "us1.chad-v2ray.ml"
         }
     ],
     "colors":{
