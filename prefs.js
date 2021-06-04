@@ -5,7 +5,7 @@ var prefs = {
     "showBlock": true, // Toggle Block widget
     "showNextBlock": true, // Toggle Next Block widget
     "showcountBlock": true, // Toggle Count Down until next Block widget
-    "showTemp": true, // Toggle Temperature widget
+    "showTemp": false, // Toggle Temperature widget
     "showKey": true, // Toggle Key widget
     "timeout":5000, // How long to wait for testPage to return status code
     "testPage":"/test.php?url=", // Page to test if server is up. Page must return status code in plain text
