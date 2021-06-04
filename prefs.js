@@ -22,7 +22,7 @@ var prefs = {
         // "url":"http://example.com" URL to check. Redirects will show as abnormal NOTE: If using slack, protocols are a requirement
         // },
         {
-            "name": "VIP",
+            "name": "VIPVIP",
             "url": "http://vip.chadserver.tk"
         },
         {
