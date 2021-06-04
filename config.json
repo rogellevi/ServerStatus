@@ -2,7 +2,7 @@
   "temp": "http://stationdata.wunderground.com/cgi-bin/stationlookup?format=json&maxage=10&station=ICANTERB8&units=metric&v=2.0",
   "servers": [
     {
-      "name": "Developster Live",
+      "name": "Live",
       "url": "https://developster.io"
     },
     {
