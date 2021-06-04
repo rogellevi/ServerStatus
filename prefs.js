@@ -5,7 +5,7 @@ var prefs = {
     "showBlock": true, // Toggle Block widget
     "showNextBlock": true, // Toggle Next Block widget
     "showcountBlock": true, // Toggle Count Down until next Block widget
-    "showTemp": false, // Toggle Temperature widget
+    "showTemp": true, // Toggle Temperature widget
     "showKey": true, // Toggle Key widget
     "timeout":5000, // How long to wait for testPage to return status code
     "testPage":"/test.php?url=", // Page to test if server is up. Page must return status code in plain text
@@ -22,25 +22,33 @@ var prefs = {
         // "url":"http://example.com" URL to check. Redirects will show as abnormal NOTE: If using slack, protocols are a requirement
         // },
         {
-            "name": "google",
-            "url": "https://www.google.com"
+            "name": "Developster Live",
+            "url": "http://www.developster.io"
         },
         {
-            "name": "VIPV2",
-            "url": "http://VIPV2.chadserver.tk"
+            "name": "Developster Beta",
+            "url": "http://beta.developster.io"
         },
         {
-            "name": "VVUSA1",
-            "url": "us1.chad-vpn.ml",
+            "name": "Developster Alpha",
+            "url": "http://alpha.developster.io",
             "alert":false
         },
         {
-            "name": "USA5",
-            "url": "us5.chad-cloud.tk"
+            "name": "Innovate For ChCh",
+            "url": "http://innovateforchch.nz"
         },
         {
-            "name": "USA1",
-            "url": "us1.chad-v2ray.ml"
+            "name": "Muute",
+            "url": "http://muute.net"
+        },
+        {
+            "name": "Kohknowco",
+            "url": "http://www.kohknowco.org"
+        },
+        {
+            "name": "UPT Digital",
+            "url": "http://uptdigital.com"
         }
     ],
     "colors":{
