@@ -23,11 +23,11 @@ var prefs = {
         // },
         {
             "name": "VIP",
-            "url": "vip.chadserver.tk"
+            "url": "http://vip.chadserver.tk"
         },
         {
             "name": "VIPV2",
-            "url": "VIPV2.chadserver.tk"
+            "url": "http://VIPV2.chadserver.tk"
         },
         {
             "name": "VVUSA1",
